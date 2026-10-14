@@ -1,0 +1,6 @@
+# Public repository contains documentation only; binaries go to Releases.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!使用说明书.md
